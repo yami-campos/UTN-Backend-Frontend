@@ -26,8 +26,8 @@ Se agregó una funcionalidad complementaria que permite buscar productos por nom
 ---
 
 
-Instrucciones para ejecutar el proyecto
-Backend
+## Instrucciones para ejecutar el proyecto
+## Backend
 Asegurarse de tener MongoDB corriendo localmente o configurar URI_DB para la base remota.
 Instalar dependencias con npm install o yarn.
 Crear el archivo .env con las variables mencionadas arriba.
@@ -35,7 +35,7 @@ Ejecutar el servidor con npm run dev o el script que tengas configurado.
 
 El backend quedará escuchando en el puerto configurado (por defecto 1234).
 
-Frontend
+## Frontend
 Instalar dependencias con npm install o yarn.
 Crear archivo .env en la raíz con la variable VITE_BACKEND_URL apuntando a la URL del backend (ejemplo: http://localhost:1234).
 Ejecutar el frontend con npm run dev (Vite).
