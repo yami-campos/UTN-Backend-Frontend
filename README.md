@@ -25,15 +25,6 @@ Se agregó una funcionalidad complementaria que permite buscar productos por nom
 
 ---
 
-## Variables de entorno necesarias
-
-### Backend (.env)
-
-```env
-PORT=1234
-URI_DB=mongodb://localhost:27017/app-utn-final
-JWT_SECRET=megustaelarroz
-
 
 Instrucciones para ejecutar el proyecto
 Backend
